@@ -7,8 +7,8 @@ import (
 	"crypto/rand"
 
 	"github.com/ChainSafe/chainbridge-utils/crypto"
-	"github.com/centrifuge/go-substrate-rpc-client/signature"
-	"github.com/centrifuge/go-substrate-rpc-client/types"
+	"github.com/kaelnew/go-substrate-rpc-client/signature"
+	"github.com/kaelnew/go-substrate-rpc-client/types"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 )
 
